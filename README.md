@@ -1,9 +1,13 @@
 # Deep Learning Algorithms
 
 Syllabus: KTU
+
 Subject Code: AIL 411
+
 Subject Name: Deep Learning Lab
+
 Credit: 2
+
 
 1. Familiarize basic python packages for deep learning such as Keras, Tensorflow etc.
 2. Data pre-processing operations such as outliers and/or inconsistent data value 
