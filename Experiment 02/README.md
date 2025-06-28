@@ -14,29 +14,29 @@ Source: Kaggle – Titanic: Machine Learning from Disaster
 
 Description: Dataset contains details of Titanic passengers to predict survival.
 
-PassengerId- Unique ID for each passenger
+    PassengerId- Unique ID for each passenger
 
-Survived- Target (0 = No, 1 = Yes)
+    Survived- Target (0 = No, 1 = Yes)
 
-Pclass- Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+    Pclass- Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
 
-Name- Passenger name
+    Name- Passenger name
 
-Sex- Gender
+    Sex- Gender
 
-Age- Age
+    Age- Age
 
-SibSp- Siblings/Spouses aboard
+    SibSp- Siblings/Spouses aboard
 
-Parch- Parents/Children aboard
+    Parch- Parents/Children aboard
 
-Ticket- Ticket number
+    Ticket- Ticket number
 
-Fare- Fare paid
+    Fare- Fare paid
 
-Cabin/Deck- Cabin number (many missing values)
+    Cabin/Deck- Cabin number (many missing values)
 
-Embarked- Port of Embarkation (C, Q, S)
+    Embarked- Port of Embarkation (C, Q, S)*
 
 **Tools & Libraries Used**
 * Python 3
